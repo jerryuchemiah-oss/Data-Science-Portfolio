@@ -1,7 +1,7 @@
 # 🗂️ Data Science Portfolio — Uche Jeremiah Nzubechukwu
 
 > Data Scientist | ML Engineer | NLP Specialist  
-> 📧 jerryuchemiah@gmail.com | 📍 Ibadan, Nigeria (Remote-Ready)
+> 📧 jerryuchemiah@gmail.com | 📍 Lagos, Nigeria (Remote-Ready)
 
 ---
 
